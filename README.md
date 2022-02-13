@@ -3,3 +3,5 @@ ShowWeapon, is a script that displays the weapon a player has in their inventory
 Dependencies:
  - ESX
  - Ox Inventory
+
+Discord link: https://discord.gg/bvnXRtf4QC
