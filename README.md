@@ -4,4 +4,4 @@ Dependencies:
  - ESX
  - Ox Inventory
 
-Discord link: https://discord.gg/bvnXRtf4QC
+Get support here, discord link: https://discord.gg/bvnXRtf4QC
